@@ -10,3 +10,4 @@ paper.*
 *.pyc
 config/config.mk
 geograd.egg-info/*
+doc/build/
